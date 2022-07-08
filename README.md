@@ -1,6 +1,7 @@
-### Hi there 👋
 
-[Blog](https://jingyibo123.github.io/)
+自动驾驶社畜，AI爱好者
+
+[Github.io](https://jingyibo123.github.io/) [知乎](https://www.zhihu.com/people/jingyibo123) [B站](https://space.bilibili.com/348711652)
 
 <!--
 **jingyibo123/jingyibo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
