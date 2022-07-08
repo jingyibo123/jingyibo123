@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Blog](https://jingyibo123.github.io/)
+
 <!--
 **jingyibo123/jingyibo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
